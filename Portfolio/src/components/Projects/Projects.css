@@ -1,0 +1,14 @@
+/* Projects.css */
+
+.container {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    background: url('/src/components/Projects/binary-code.jpg');
+    /* Additional background styling (e.g., size, position, repeat) can be added here */
+  }
+  
+  .container * {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  

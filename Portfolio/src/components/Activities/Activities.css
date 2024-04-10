@@ -1,0 +1,24 @@
+/* Activities.css */
+
+#activities {
+  margin-bottom: 40px;
+  color: white; /* Set default text color to white for the entire section */
+}
+
+#activities h2 {
+  margin-bottom: 10px;
+}
+
+#activities div {
+  margin-bottom: 20px;
+}
+
+#activities h3,
+#activities h5,
+#activities ul {
+  color: white; /* Set text color to white for specific elements */
+}
+
+#activities ul li {
+  color: white; /* Set text color to white for list items */
+}

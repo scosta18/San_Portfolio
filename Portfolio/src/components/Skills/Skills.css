@@ -1,0 +1,18 @@
+/* Skills.css */
+
+#skills {
+    margin-bottom: 40px;
+  }
+  
+  #skills h2 {
+    margin-bottom: 10px;
+  }
+  
+  #skills ul {
+    list-style-type: none;
+  }
+  
+  #skills ul li {
+    margin-bottom: 5px;
+  }
+  

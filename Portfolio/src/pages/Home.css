@@ -1,0 +1,10 @@
+/* Home.css */
+
+.home-container {
+  color: white; /* Set default text color to white for the entire container */
+  background-image: url('binary-code.jpg');
+}
+
+.home-container p {
+  font-size: 150%; /* Set font size for all paragraphs within the container */
+}

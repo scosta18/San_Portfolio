@@ -7,10 +7,11 @@ function App() {
     <div className='appbk'>
       <Router>
       <div>
-        <Header />
+        <Header/>
       </div>
     </Router>
     </div>
+
   );
 }
 
