@@ -1,0 +1,20 @@
+.welcome-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .letter {
+    font-size: 36px;
+    margin: 0 8px; /* Adjust spacing between letters */
+    animation: spin 3s linear infinite; /* Apply the spin animation infinitely */
+  }
+  
+  @keyframes spin {
+    0% {
+      transform: rotateY(0deg);
+    }
+    100% {
+      transform: rotateY(360deg);
+    }
+  }
+  

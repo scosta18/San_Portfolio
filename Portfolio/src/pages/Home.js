@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css'; // Import CSS file for styling
-
+import Root from '../Root/root'
 function Home() {
   return (
     <div className="home-container">
@@ -21,6 +21,7 @@ function Home() {
         <br />01101111
       </p>
     </div>
+    
   );
 }
 
